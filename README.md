@@ -132,7 +132,7 @@ Inspiration: Built with love for UI/UX enthusiasts and creative minds.
 
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-Email: janesh@example.com (replace with your email)
+Email: kapoorjanesh.2003@gmail.com (replace with your email)
 
 GitHub: @JaneshKapoor
 
