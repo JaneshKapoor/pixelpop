@@ -6,6 +6,8 @@
 
 PixelPop is an interactive 3D photo album that allows users to upload their own images and view them in a beautiful animated book format. The application features a realistic page-turning animation, image uploading capabilities, and an immersive 3D environment.
 
+Developed by [Janesh Kapoor](https://www.linkedin.com/in/janeshkapoor/) for the Frontend UI hackathon
+
 ## 🚀 Features
 
 - **Interactive 3D Book**: Flip through pages with realistic animations
@@ -40,5 +42,36 @@ PixelPop is an interactive 3D photo album that allows users to upload their own 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/pixelpop.git
+git clone https://github.com/janeshKapoor/pixelpop.git
 cd pixelpop
+```
+
+2. Install Dependencies
+```bash
+yarn
+```
+
+3. Start the development server:
+```bash
+yarn dev
+```
+
+4. Open your browser and navigate to:
+'http://localhost:5173/'
+
+## 📖 Usage
+1. Navigate through the book using the page buttons at the bottom
+2. Click the "Upload Image" button to add your own photos
+3. Adjust image settings before uploading
+4. Click on pages to turn them
+
+## ⚠️ Known Limitations
+- Uploaded images are stored in localStorage and will be lost if browser data is cleared
+- Best experienced on devices with WebGL support
+## 🔮 Future Enhancements
+- Cloud storage for uploaded images
+- Additional image filters and effects
+
+## 👨‍💻 Credits
+Developed by [Janesh Kapoor](https://www.linkedin.com/in/janeshkapoor/)
+Email: kapoorjanesh.2003@gmail.com
