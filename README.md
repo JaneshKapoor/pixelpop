@@ -1,37 +1,44 @@
-PixelPop - Modern Photo Editing App
+# PixelPop - Interactive 3D Photo Album
 
-PixelPop is a sleek, modern photo editing application built with React.js and Tailwind CSS. It provides intuitive tools for applying filters, adjusting image properties (brightness, contrast, saturation, etc.), and saving edited images. Designed with a focus on user experience, PixelPop is perfect for quick edits and creative experimentation.
+**Live Demo: [pixelpop.vercel.app](https://pixelpop.vercel.app)**
 
-🚀 Features
+> Prompt: "Build a photo editing app with filters and adjustment tools."
 
-Image Upload: Drag-and-drop or select images from your device.
+PixelPop is an interactive 3D photo album that allows users to upload their own images and view them in a beautiful animated book format. The application features a realistic page-turning animation, image uploading capabilities, and an immersive 3D environment.
 
-Real-Time Filters: Apply grayscale, sepia, and other filters instantly.
+## 🚀 Features
 
-Adjustment Tools:
+- **Interactive 3D Book**: Flip through pages with realistic animations
+- **Image Upload**: Add your own photos to the book
+- **Image Adjustments**: Edit brightness, contrast, and saturation before uploading
+- **Responsive Design**: Works on both desktop and mobile devices
+- **Immersive Experience**: Beautiful 3D environment with lighting and shadows
 
-Brightness
+## 🛠️ Technologies Used
 
-Contrast
+- **React.js**: Frontend framework
+- **Three.js/React Three Fiber**: 3D rendering and animations
+- **Tailwind CSS**: Styling and responsive design
+- **Jotai**: State management
+- **Vite**: Build tool and development server
 
-Saturation
+## 🤖 AI Tools Used
 
-Save Edited Image: Download your edited image with a single click.
+- **Trae AI**: Code assistance and optimization
+- **Cursor AI**: Development workflow enhancement
+- **Qwen**: Content generation and problem-solving
+- **Abacus AI**: Performance optimization
 
-Responsive Design: Works seamlessly on desktop and mobile devices.
+## 📋 Installation and Setup
 
-Dark/Light Mode: Switch between themes for a personalized experience.
+### Prerequisites
 
-Hackathon Ready: Clean UI/UX, modular code, and easy-to-extend functionality.
+- Node.js (v14 or later)
+- npm or yarn
 
-🛠️ Tech Stack
+### Local Development
 
-Frontend: React.js
-
-Styling: Tailwind CSS
-
-Utilities: React Icons, React Dropzone
-
-For questions, feedback, or collaboration opportunities, feel free to reach out:
-
-Email: kapoorjanesh.2003@gmail.com
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/pixelpop.git
+cd pixelpop
